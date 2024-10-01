@@ -1,0 +1,86 @@
+img{
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    border: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    object-fit: cover;
+}
+body{
+    background-color: rgb(198, 234, 234);
+    border: 10px solid rgb(28, 28, 26);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 50px;
+}
+.premDiv{
+    border: 2px solid gray;
+    display:inline-block;
+    text-align: center;
+    padding:20px;
+    overflow: auto;
+    width: 400px;
+    height: 400px;
+    margin: 40px;
+}
+#krishna{
+    background-image: url("./images/krishna-png-removebg-preview.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    border: 10px dotted black ;
+    background-color: rgb(225, 165, 135);
+}
+#krishna1{
+    background-image: url("./images/radhakrishna-removebg-preview.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 90px;
+    border: 10px dotted black ;
+    background-color: rgb(113, 110, 172);
+}
+#krishna2{
+    background-image: url("./images/krsna-removebg-preview.png");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    border: 10px dotted black ;
+    background-color: rgb(193, 136, 136);
+}
+#krishna3{
+    background-image: url("./images/jagannath-removebg-preview.png");
+    background-size: 100px 100px;
+    background-repeat: repeat-y;
+    background-position: center;
+    border: 10px dotted black ;
+    background-color: rgb(141, 186, 142);
+}
+#krishna4{
+    background-image: url("./images/littlekrishpng.png");
+    background-size: 100px 100px;
+    background-repeat:  no-repeat;
+    background-position:  bottom;
+    border: 10px dotted black ;
+    background-color: rgb(226, 230, 114);
+}
+#krishna5{
+    background-image : url("./images/hare\ krishna\ png.png");
+    background-size: 100px 100px;
+    background-repeat: repeat-x;
+    background-size: 100px;
+    border: 10px dotted black ;
+    background-color: rgb(123, 153, 188);
+}
+#krishna6{
+    background-image: url("./images/iskcon-removebg-preview.png");
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 10px dotted black ;
+    background-color: rgb(139, 165, 165);
+}
+h1{
+    background-image: url("./images/heading.png");
+    background-size: 100px 100px;
+    
+}
